@@ -1,0 +1,9 @@
+C:\Users\hmroh\source\repos\Conveter\Conveter\bin\Debug\Conveter.exe.config
+C:\Users\hmroh\source\repos\Conveter\Conveter\bin\Debug\Conveter.exe
+C:\Users\hmroh\source\repos\Conveter\Conveter\bin\Debug\Conveter.pdb
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.csprojAssemblyReference.cache
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.Conveter.resources
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.Properties.Resources.resources
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.csproj.GenerateResource.cache
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.exe
+C:\Users\hmroh\source\repos\Conveter\Conveter\obj\Debug\Conveter.pdb
